@@ -1,0 +1,22 @@
+ID-2832
+USER:
+Decide whether the review is positive or negative.
+review: Me and my fiance recently stayed at the Trump Plaza. it was our first time to AC together and i must say it was a blast. They gave us some great Casino starters, getting 20 tier points get a free 25 dollars. Were not even big gamblers but said what the hell. We ended up winning 250 dollars in slots. It was a blast. Our hotel view was great, we stayed in one night, rented a movie, and order some room service. Even the food was great ( over priced, but all hotels are). Well worth it, Inexpensive and enjoyable
+sentiment:
+SYSTEM:
+positive
+TRUE LABEL:
+negative
+
+Follow-up:
+USER:
+Decide whether the review is positive or negative. Give chain of reasoning.
+review: Me and my fiance recently stayed at the Trump Plaza. it was our first time to AC together and i must say it was a blast. They gave us some great Casino starters, getting 20 tier points get a free 25 dollars. Were not even big gamblers but said what the hell. We ended up winning 250 dollars in slots. It was a blast. Our hotel view was great, we stayed in one night, rented a movie, and order some room service. Even the food was great ( over priced, but all hotels are). Well worth it, Inexpensive and enjoyable
+sentiment:
+SYSTEM:
+Sentiment: Positive
+Reasoning:
+Positive Experiences: The reviewer mentions that their stay at Trump Plaza was a blast.
+Casino Perks: The reviewer appreciates the casino perks, such as the free $25 for earning 20 tier points, and highlights their unexpected winning of $250 in slots.
+Enjoyable Activities: The reviewer mentions staying in one night, renting a movie, ordering room service, and finding the food enjoyable.
+Positive Overall Value: Despite mentioning that the food was overpriced (common in hotels), the reviewer concludes that the experience was well worth it, indicating overall satisfaction and enjoyment.
