@@ -1,0 +1,229 @@
+3
+USER:
+Is the following tweet an irony or not.
+Tweet: #NOT GONNA WIN http://t.co/Mc9ebqjAqj
+Classification:
+SYSTEM:
+The given tweet doesn't provide enough context to determine whether it's ironic or not.
+TRUE LABEL:
+0
+Follow-up:
+USER:
+Is the following tweet an irony or not.  Give chain of reasoning.
+Tweet: #NOT GONNA WIN http://t.co/Mc9ebqjAqj
+Classification:
+SYSTEM:
+The tweet "#NOT GONNA WIN" does not exhibit clear irony. While the text may suggest a lack of optimism about winning, it lacks the typical reversal of expectations or a context that would make it ironic. Without additional context, it seems more straightforward and not intended to convey an ironic meaning.
+0
+
+4
+USER:
+Is the following tweet an irony or not.
+Tweet: @mickymantell He is exactly that sort of person. Weirdo!
+Classification:
+SYSTEM:
+The given tweet doesn't contain sufficient information to definitively classify it as ironic or not. Irony often depends on context, tone, and the relationship between the individuals involved.
+TRUE LABEL:
+0
+Follow-up:
+USER:
+Is the following tweet an irony or not.  Give chain of reasoning.
+Tweet: @mickymantell He is exactly that sort of person. Weirdo!
+Classification:
+SYSTEM:
+The tweet "@mickymantell He is exactly that sort of person. Weirdo!" doesn't appear to convey irony. The term "weirdo" is used straightforwardly to describe someone as peculiar or odd. There is no evident reversal of expectations or a context that would imply a different meaning. The language seems more direct and descriptive rather than ironic.
+USER:
+Then wouldn't that be not ironic, why did you say we do not have enough information?
+SYSTEM:
+I appreciate the clarification. You are correct, based on the information provided, the tweet doesn't exhibit irony. I apologize for any confusion caused by the previous response. The correct classification for the tweet " @mickymantell He is exactly that sort of person. Weirdo!" is Not ironic.
+0
+
+17
+USER:
+Is the following tweet an irony or not.
+Tweet: you believe you can say something, provide no proof and its a fact, WRONG @RBRNetwork1 @jtarleta53
+Classification:
+SYSTEM:
+1
+TRUE LABEL:
+0
+Follow-up:
+USER:
+Is the following tweet an irony or not. Give chain of reasoning.
+Tweet: you believe you can say something, provide no proof and its a fact, WRONG @RBRNetwork1 @jtarleta53
+Classification:
+SYSTEM:
+The tweet expresses frustration about someone making a factual claim without providing proof. It doesn't appear to be using irony. The classification is Not ironic. The user is straightforwardly asserting that making a factual claim without proof is wrong.
+0
+
+18
+USER:
+Is the following tweet an irony or not.
+Tweet: @ALL #Not #Long To Go #Before #MainStream #Media #Pitch. #Surgery #follows #with #me #using #Prototype #demonstrating #real #situation.Phil
+Classification:
+SYSTEM:
+1
+TRUE LABEL:
+0
+Follow-up:
+USER:
+Is the following tweet an irony or not. Give chain of reasoning.
+Tweet: @ALL #Not #Long To Go #Before #MainStream #Media #Pitch. #Surgery #follows #with #me #using #Prototype #demonstrating #real #situation.Phil
+Classification:
+SYSTEM:
+The tweet includes the hashtags #Not and #Before, which, when read together, may indicate irony. However, without additional context, it's challenging to determine the intended tone with certainty. The use of hashtags might suggest a playful or sarcastic tone. Therefore, the classification is Possibly ironic due to the ambiguity of the tweet's tone.
+1
+
+20
+USER:
+Is the following tweet an irony or not.
+Tweet: @CorporalFrisk Guess they didn't get the memo reg non-nuclear Baltic sea #sarcasm
+Classification:
+SYSTEM:
+0
+TRUE LABEL:
+1
+Follow-up:
+USER:
+Is the following tweet an irony or not. Give chain of reasoning.
+Tweet: @CorporalFrisk Guess they didn't get the memo reg non-nuclear Baltic sea #sarcasm
+Classification:
+SYSTEM:
+1
+
+28
+USER:
+Is the following tweet an irony or not.
+Tweet: How dare Charles Barkley have an intelligent conversation about race. #sarcasm #CharlesBarkley
+Classification:
+SYSTEM:
+0
+TRUE LABEL:
+1
+Follow-up:
+USER:
+Is the following tweet an irony or not. Give chain of reasoning.
+Tweet: How dare Charles Barkley have an intelligent conversation about race. #sarcasm #CharlesBarkley
+Classification:
+SYSTEM:
+1
+
+34
+USER:
+Is the following tweet an irony or not.
+Tweet: http://t.co/PfJ92w4CwZ #TeenAnalCasting #Top Top 50 Christian Songs For 2012
+Classification:
+SYSTEM:
+This content may violate our content policy. If you believe this to be in error, please submit your feedback — your input will aid our research in this area.
+TRUE LABEL:
+0
+Follow-up:
+USER:
+Is the following tweet an irony or not.
+Tweet: http://t.co/PfJ92w4CwZ  #Top Top 50 Christian Songs For 2012
+Classification:
+SYSTEM:
+0
+
+35
+USER:
+Is the following tweet an irony or not.
+Tweet: The girls on #SororitySisters thought they'd get rich and famous but instead they be like... http://t.co/yGnRtq0tVy
+Classification:
+SYSTEM:
+1
+TRUE LABEL:
+0
+Follow-up:
+USER:
+Is the following tweet an irony or not. Give chain of reasoning.
+Tweet: The girls on #SororitySisters thought they'd get rich and famous but instead they be like... http://t.co/yGnRtq0tVy
+Classification:
+SYSTEM:
+The tweet contains elements of irony. The phrase "they'd get rich and famous but instead they be like..." suggests a contrast between the expected outcome (getting rich and famous) and the actual situation ("they be like..."). The use of "be like" typically implies a reaction that is different or unexpected, adding a layer of irony to the statement. Therefore, the classification is Ironic.
+1
+
+36
+USER:
+Is the following tweet an irony or not.
+Tweet: Speaking of #country #music albums, anyone else think #SundownHeavenTown feels more like a #TimMcGraw album than, say, his previous three?
+Classification:
+SYSTEM:
+1
+TRUE LABEL:
+0
+Follow-up:
+USER:
+Is the following tweet an irony or not. Give chain of reasoning.
+Tweet: Speaking of #country #music albums, anyone else think #SundownHeavenTown feels more like a #TimMcGraw album than, say, his previous three?
+Classification:
+SYSTEM:
+0
+
+37
+USER:
+Is the following tweet an irony or not.
+Tweet: http://t.co/fepZHFy79Z #TeenAnalCasting #Sex Sex and the City 2 Movie Casting Auditions NYC Summer 2009
+Classification:
+SYSTEM:
+This content may violate our content policy. If you believe this to be in error, please submit your feedback — your input will aid our research in this area.
+TRUE LABEL:
+0
+Follow-up:
+USER:
+Is the following tweet an irony or not.
+Tweet: http://t.co/fepZHFy79Z  and the City 2 Movie Casting Auditions NYC Summer 2009
+Classification:
+SYSTEM:
+0
+
+41
+USER:
+Is the following tweet an irony or not.
+Tweet: Stupid #doctors visits is gonna bury me!! Now that's #irony
+Classification:
+SYSTEM:
+0
+TRUE LABEL:
+1
+Follow-up:
+USER:
+Is the following tweet an irony or not. Give chain of reasoning.
+Tweet: Stupid #doctors visits is gonna bury me!! Now that's #irony
+Classification:
+SYSTEM:
+1
+
+45
+USER:
+Is the following tweet an irony or not.
+Tweet: You decide to go on vacation without me sleep? Reaaaal nice. #considerate #not 😒💤
+Classification:
+SYSTEM:
+0
+TRUE LABEL:
+1
+Follow-up:
+USER:
+Is the following tweet an irony or not. Give chain of reasoning.
+Tweet: You decide to go on vacation without me sleep? Reaaaal nice. #considerate #not 😒💤
+Classification:
+SYSTEM:
+1
+
+46
+USER:
+Is the following tweet an irony or not.
+Tweet: @ChainAttackJay No sugar during christmas time? :(
+Classification:
+SYSTEM:
+1
+TRUE LABEL:
+0
+Follow-up:
+USER:
+Is the following tweet an irony or not. Give chain of reasoning.
+Tweet: @ChainAttackJay No sugar during christmas time? :(
+Classification:
+SYSTEM:
+0
